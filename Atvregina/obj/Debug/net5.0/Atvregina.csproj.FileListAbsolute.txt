@@ -1,0 +1,16 @@
+C:\Users\android\Downloads\regina\cshap\Atvregina\bin\Debug\net5.0\Atvregina.exe
+C:\Users\android\Downloads\regina\cshap\Atvregina\bin\Debug\net5.0\Atvregina.deps.json
+C:\Users\android\Downloads\regina\cshap\Atvregina\bin\Debug\net5.0\Atvregina.runtimeconfig.json
+C:\Users\android\Downloads\regina\cshap\Atvregina\bin\Debug\net5.0\Atvregina.runtimeconfig.dev.json
+C:\Users\android\Downloads\regina\cshap\Atvregina\bin\Debug\net5.0\Atvregina.dll
+C:\Users\android\Downloads\regina\cshap\Atvregina\bin\Debug\net5.0\ref\Atvregina.dll
+C:\Users\android\Downloads\regina\cshap\Atvregina\bin\Debug\net5.0\Atvregina.pdb
+C:\Users\android\Downloads\regina\cshap\Atvregina\obj\Debug\net5.0\Atvregina.csprojAssemblyReference.cache
+C:\Users\android\Downloads\regina\cshap\Atvregina\obj\Debug\net5.0\Atvregina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Downloads\regina\cshap\Atvregina\obj\Debug\net5.0\Atvregina.AssemblyInfoInputs.cache
+C:\Users\android\Downloads\regina\cshap\Atvregina\obj\Debug\net5.0\Atvregina.AssemblyInfo.cs
+C:\Users\android\Downloads\regina\cshap\Atvregina\obj\Debug\net5.0\Atvregina.csproj.CoreCompileInputs.cache
+C:\Users\android\Downloads\regina\cshap\Atvregina\obj\Debug\net5.0\Atvregina.dll
+C:\Users\android\Downloads\regina\cshap\Atvregina\obj\Debug\net5.0\ref\Atvregina.dll
+C:\Users\android\Downloads\regina\cshap\Atvregina\obj\Debug\net5.0\Atvregina.pdb
+C:\Users\android\Downloads\regina\cshap\Atvregina\obj\Debug\net5.0\Atvregina.genruntimeconfig.cache
